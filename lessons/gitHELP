@@ -1,0 +1,13 @@
+git config --global user.name "FIRST_NAME LAST_NAME": сохраняет данные о вас
+git config --global user.email "MY_NAME@example.com": сохраняет данные
+
+1 раз
+git init : связывает гит с вашим проектом
+git remote add origin https://github.com/Eldar0407/op2.git: связывает проект к репозиторию
+
+всегда
+git add . : добавляет файлы
+git commit -m "название"
+git push -u origin main
+
+git commit -m "lesson1"
